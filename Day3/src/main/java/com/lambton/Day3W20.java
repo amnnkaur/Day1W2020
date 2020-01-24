@@ -123,17 +123,12 @@ public class Day3W20
         return rev;
     }
 
-    public static String swapString (String str) {
+    /*public static String swapString (String str) {
         String temp;
         char names[] = str.toCharArray();
         int len =names.length;
+      */
 
-        for(int i)
-        {
-
-        }
-
-    }
 
 }
 
